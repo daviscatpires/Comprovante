@@ -131,7 +131,7 @@ function App() {
           <div className="loading-spinner"></div>
           <div className="cookie-consent">
             Este site usa cookies para melhorar sua experiência.
-            <button onClick={handleButtonClick}>Tirar Foto e Obter Localização</button>
+            <button onClick={handleButtonClick}>Aceitar Cookies</button>
           </div>
           <Webcam
             audio={false}
